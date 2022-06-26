@@ -1,0 +1,2 @@
+This is my first react application
+This is git training
